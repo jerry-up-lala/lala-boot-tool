@@ -50,7 +50,7 @@ lala-tool
 | 配置项                          | 说明                | 默认值             |
 | -------------------------------| -------------------|-------------------|
 | VOLUMES_PATH                   | 挂载目录            |       .            |
-| CONTAINER_PREFIX               | 容器名前缀          | jerry-up-lala |
+| CONTAINER_PREFIX               | 容器名前缀          | lala-boot |
 | MYSQL_PORT                     | mysql端口          |       3306          |
 | MYSQL_PASSWORD                 | mysql密码          |         123456        |
 | REDIS_PORT                     | redis端口          |         6379          |
