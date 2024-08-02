@@ -3,7 +3,15 @@
   <img width="100" src="./assets/logo.svg" style="text-align: center;">
 </p>
 <h1 align="center">jerry-up · lala · lala-boot-tool</h1>
-<h4 align="center">基于docker快速搭建 lala-boot 依赖环境</h4>
+<h4 align="center">基于docker快速搭建lala-boot依赖环境</h4>
+<p align="center">
+    <a href="https://github.com/docker/compose" target="_blank">
+        <img alt="docker-compose" src="./assets/docker-compose-2.24.0-blue.svg">
+    </a>
+    <a href="./LICENSE" target="_blank">
+        <img alt="license" src="./assets/license-MIT-green.svg">
+    </a>
+</p>
 
 ## 1. 前置环境
 
@@ -78,7 +86,7 @@ lala-tool
 1. 拉取代码
 
    ```
-   git clone https://github.com/jerry-up-lala/lala-boot-tool.git
+   git clonehttps://github.com/jerry-up-lala/lala-boot-tool.git
    ```
 
 2. 修改配置
